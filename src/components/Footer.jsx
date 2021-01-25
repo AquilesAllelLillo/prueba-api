@@ -3,6 +3,8 @@ import React from 'react';
 import logo_alt from '../assets/statics/logo_alt.png';
 import vtex from '../assets/statics/vtex.png';
 
+import '../assets/styles/components/Footer.css';
+
 const Footer = () => (
   <footer className="footer">
     <div>
